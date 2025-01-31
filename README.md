@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7assD4HH)
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub!
 
 ## 🤓 Course overview and learning outcomes 
 
@@ -15,7 +15,7 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 
 ## :octocat: Understanding the GitHub flow 
 
-The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
+The GitHub flow is a lightweight workflow that a llows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
 
 ### Repositories
 
